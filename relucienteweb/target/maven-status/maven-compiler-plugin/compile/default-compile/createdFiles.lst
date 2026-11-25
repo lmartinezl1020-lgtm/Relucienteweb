@@ -1,0 +1,5 @@
+com\mycompany\relucienteweb\controlador\ClienteServlet.class
+com\mycompany\relucienteweb\modelo\ClienteDAO.class
+com\mycompany\relucienteweb\controlador\PruebaConexion.class
+com\mycompany\relucienteweb\Conexion.class
+com\mycompany\relucienteweb\modelo\Cliente.class
